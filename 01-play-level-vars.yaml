@@ -1,5 +1,5 @@
 - name: play level variables
-  hosts: local
+  hosts: local                    # this value is coming from inventory.ini from [local]
   connection: local
   vars:
     COURSE: "DevOps, currently learning Ansible"

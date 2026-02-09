@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35773221-2c5e-4c17-8164-627a6d536416" name="Changes" comment="Play level Variables declaration">
-      <change afterPath="$PROJECT_DIR$/inventory.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-play-level-vars.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/01-play-level-vars.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,5 +82,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Play level Variables declaration" />
     <option name="LAST_COMMIT_MESSAGE" value="Play level Variables declaration" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
