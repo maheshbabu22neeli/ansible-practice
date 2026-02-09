@@ -3,7 +3,7 @@
   connection: local
   vars:
     COURSE: "DevOps, currently learning Ansible"
-    TRAINING: "Self"
+    TRAINING: "Self Training"
   tasks:
   - name: print variables
     ansible.builtin.debug:
